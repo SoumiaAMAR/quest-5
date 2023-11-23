@@ -1,4 +1,4 @@
-Remote
+local
 test,
 test, 
 test,
